@@ -1,2 +1,2 @@
 # asinCollector
-Collect asins on amazon links
+Collect asins on amazon links.
